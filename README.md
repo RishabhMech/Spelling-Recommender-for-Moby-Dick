@@ -1,1 +1,1 @@
-# Spelling-Recommender-for-Moby-Dick
+For every misspelled word in the novel, Moby-Dick, the recommender should find find the correct spellings, and return the correction as a recommendation. This recommender is trained over Jaccard\ Edit distance metrics in N-gram Language models.
